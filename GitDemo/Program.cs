@@ -11,7 +11,7 @@ namespace GitDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to my git demo");
-            Demo.Hello("Conflict");
+            Demo.Hello("Hello");
         }
     }
 }
